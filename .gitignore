@@ -1,0 +1,12 @@
+# Hexo / Node
+node_modules/
+public/
+.deploy_git/
+db.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+
+# Windows downloaded files ADS artifacts (can appear as weird filenames on Linux)
+*Zone.Identifier*
